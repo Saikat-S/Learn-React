@@ -4,7 +4,7 @@
     background-color: rgb(124, 138, 85);
     display: flex;
     justify-content: center;
-
+}
 .navContainer{
     width: 100%;
     max-width: 1024px;
